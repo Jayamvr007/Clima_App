@@ -1,10 +1,6 @@
 //
 //  WeatherData.swift
 //  Clima
-//
-//  Created by 10683973 on 31/08/22.
-//  Copyright © 2022 App Brewery. All rights reserved.
-//
 
 import Foundation
 
