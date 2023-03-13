@@ -1,16 +1,16 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+
 
 #  Clima
 
 ## Our Goal
 
-It’s time to take our app development skills to the next level. We’re going to introduce you to the wonderful world of Application Programming Interfaces (APIs) to grab live data from the internet. If you’re dreaming of making that Twitter-powered stock trading app then you’re about add some serious tools to your toolbelt!
+It’s time to take our app development skills to the next level. We’re going to introduce the wonderful world of Application Programming Interfaces (APIs) to grab live data from the internet. If we are dreaming of making that Twitter-powered stock trading app then we are about add some serious tools to our toolbelt!
 
 
-## What you will create
+## What we will create
 
-By the end of the module, you will have made a beautiful, dark-mode enabled weather app. You'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
+By the end of the module, we will have made a beautiful, dark-mode enabled weather app. we will be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
 
 ## What you will learn
 
@@ -49,6 +49,3 @@ switch conditionID {
         }
 ```
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
